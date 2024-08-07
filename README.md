@@ -13,17 +13,17 @@
 
 - **Simplicity:** Easy setup and implementation process for developers, with clear documentation and examples.
 - **Thread Context:** Allows applications to maintain the context of conversations across multiple queries.
+- **FREE:** There are many other AI chat APIs available, but what makes AskCodeium unique is its free and open-source nature.
 
 ## 🎯 Project Mission
 
-The mission of AskCodeium is to democratize access to AI chat services by making them free, easy to integrate, and accessible for all developers.
+The mission of AskCodeium is to make AI chat APIs free, easy to integrate, and accessible for all developers.
 
 ## 🌎 Languages
 
 ### AskCodeium for Python
 
-<!-- [![](https://img.shields.io/pypi/v/AskCodeium?color=blue&logo=pypi)](https://pypi.org/project/AskCodeium/) -->
-
+[![](https://img.shields.io/pypi/v/AskCodeium?color=blue&logo=pypi)](https://pypi.org/project/AskCodeium/)
 [![](https://img.shields.io/badge/AskCodeium.py-black?logo=github&logoColor=white)](https://github.com/TheCyberLocal/AskCodeium.py)
 
 <!-- ### AskCodeium for JavaScript -->
